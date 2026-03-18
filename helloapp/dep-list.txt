@@ -1,0 +1,6 @@
+The following files have been resolved:
+   org.springframework.boot:spring-boot-starter-webflux:jar:4.0.0:compile -- module spring.boot.starter.webflux [auto]
+   org.springframework:spring-context-indexer:jar:7.0.1:compile -- module spring.context.indexer [auto]
+   org.springframework.boot:spring-boot-starter-test:jar:4.0.0:test -- module spring.boot.starter.test [auto]
+   io.projectreactor:reactor-test:jar:3.8.0:test -- module reactor.test [auto]
+
